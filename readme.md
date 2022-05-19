@@ -8,7 +8,7 @@ npm install gh-pages --save-dev
 "deploy": "gh-pages -d build"
 
 
-git init
+git init<br />
 git remote add origin git@github.com:yourUserName/appname.git
 
 git add .
